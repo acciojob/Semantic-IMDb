@@ -10,7 +10,7 @@
  
  - `nav` should link to different sections of your page- Actors and Quotes- with ids as `nav-actor` and `nav-quote` respectively
  - `summary` should have a short summary of the plot of the movie
- - `section` there should be 2 sections in the page with the `ids = actor` and `quote` respectively. One section should have details about the actors in \
+ - `section` there should be 2 sections in the page with the `ids = actor` and `quote` respectively. One section should have details about the actors in
     the movie, the other should have your favourite quote from the movie
  - `aside` should have information about the imdb rating of the movie and its release date
  - `footer` should have Producer's name in the format: `Produced by: &lt name &gt `
